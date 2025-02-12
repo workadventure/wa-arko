@@ -2742,7 +2742,7 @@
         {
          "columns":16,
          "firstgid":149534,
-         "image":"..\/..\/..\/..\/..\/..\/..\/Downloads\/school\/32px+VXACE\/school_B.png",
+         "image":"tilesets\/school_B.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2755,7 +2755,7 @@
         {
          "columns":16,
          "firstgid":149790,
-         "image":"..\/..\/..\/..\/..\/..\/..\/Downloads\/school\/32px+VXACE\/school_C.png",
+         "image":"tilesets\/school_C.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
