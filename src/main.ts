@@ -6,6 +6,7 @@ console.log('Script started successfully');
 
 // Waiting for the API to be ready
 WA.onInit().then(() => {
+    WA.player.setOutlineColor(101, 179, 46);         
     console.log('Scripting API ready');
     console.log('Player tags: ',WA.player.tags)
 
